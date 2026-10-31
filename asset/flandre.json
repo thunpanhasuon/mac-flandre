@@ -1,0 +1,64 @@
+{
+  "idle": [
+    "asset/flan_stand/flan_stand_0.png",
+    "asset/flan_stand/flan_stand_1.png",
+    "asset/flan_stand/flan_stand_2.png",
+    "asset/flan_stand/flan_stand_3.png",
+    "asset/flan_stand/flan_stand_4.png"
+  ],
+  "wings": [
+    "asset/flan_wing/flan_wing_0.png",
+    "asset/flan_wing/flan_wing_1.png",
+    "asset/flan_wing/flan_wing_2.png",
+    "asset/flan_wing/flan_wing_3.png",
+    "asset/flan_wing/flan_wing_4.png"
+  ],
+  "lookLeft": [
+    "asset/flan_ivent_stand/left/flan_ivent_stand_0.png",
+    "asset/flan_ivent_stand/left/flan_ivent_stand_1.png",
+    "asset/flan_ivent_stand/left/flan_ivent_stand_2.png",
+    "asset/flan_ivent_stand/left/flan_ivent_stand_3.png"
+  ],
+  "lookRight": [
+    "asset/flan_ivent_stand/right/flan_ivent_stand_0_right.png",
+    "asset/flan_ivent_stand/right/flan_ivent_stand_1_right.png",
+    "asset/flan_ivent_stand/right/flan_ivent_stand_2_right.png",
+    "asset/flan_ivent_stand/right/flan_ivent_stand_3_right.png"
+  ],
+  "reach": [
+    "asset/flan_ivent_hand1/flan_ivent_hand1_0.png",
+    "asset/flan_ivent_hand1/flan_ivent_hand1_1.png",
+    "asset/flan_ivent_hand1/flan_ivent_hand1_2.png",
+    "asset/flan_ivent_hand1/flan_ivent_hand1_3.png",
+    "asset/flan_ivent_hand1/flan_ivent_hand1_4.png",
+    "asset/flan_ivent_hand1/flan_ivent_hand1_5.png",
+    "asset/flan_ivent_hand1/flan_ivent_hand1_6.png",
+    "asset/flan_ivent_hand1/flan_ivent_hand1_7.png",
+    "asset/flan_ivent_hand1/flan_ivent_hand1_8.png"
+  ],
+  "wave": [
+    "asset/flan_ivent_hand2/flan_ivent_hand2_0.png",
+    "asset/flan_ivent_hand2/flan_ivent_hand2_1.png",
+    "asset/flan_ivent_hand2/flan_ivent_hand2_2.png",
+    "asset/flan_ivent_hand2/flan_ivent_hand2_3.png",
+    "asset/flan_ivent_hand2/flan_ivent_hand2_4.png",
+    "asset/flan_ivent_hand2/flan_ivent_hand2_5.png",
+    "asset/flan_ivent_hand2/flan_ivent_hand2_6.png",
+    "asset/flan_ivent_hand2/flan_ivent_hand2_7.png",
+    "asset/flan_ivent_hand2/flan_ivent_hand2_8.png"
+  ],
+  "handToFace": [
+    "asset/flan_ivent_hand3/flan_ivent_hand3_0.png",
+    "asset/flan_ivent_hand3/flan_ivent_hand3_1.png",
+    "asset/flan_ivent_hand3/flan_ivent_hand3_2.png",
+    "asset/flan_ivent_hand3/flan_ivent_hand3_3.png",
+    "asset/flan_ivent_hand3/flan_ivent_hand3_4.png",
+    "asset/flan_ivent_hand3/flan_ivent_hand3_5.png"
+  ],
+  "down": [
+    "asset/flan_down/flan_down_0.png",
+    "asset/flan_down/flan_down_1.png",
+    "asset/flan_down/flan_down_2.png",
+    "asset/flan_down/flan_down_3.png"
+  ]
+}

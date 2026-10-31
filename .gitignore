@@ -1,0 +1,5 @@
+*.o
+pets
+*.dSYM/
+.DS_Store
+build/
