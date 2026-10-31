@@ -2,6 +2,16 @@
 
 A pixel-art desktop companion for macOS, built with C++17, Raylib, and Cocoa. Flandre sits above your windows, reacts to the cursor, and cycles through animated poses while you work.
 
+## Artwork credits
+
+Flandre Scarlet sprites are from **Touhou Luna Nights**, sourced from [The Spriters Resource](https://www.spriters-resource.com/pc_computer/touhoulunanights/asset/138319/).
+
+- **Uploaded by:** Mysticus
+- **Contributor:** Adrot
+- **Submitted:** August 27, 2020
+
+The source page credits Mysticus as the uploader and Adrot as a contributor; it does not identify the original sprite artist. The sprite artwork was not created for this project.
+
 ## Screenshots
 
 <table>
@@ -101,7 +111,6 @@ asset/                 Sprite frames and flandre.json manifest
 docs/screenshots/      README screenshots
 src/
   main.cpp             Pet rendering, animation cycle, and cursor reactions
-  animation/           Animation types
   assets/              JSON manifest loading through AssetManager
   platform/            macOS window and global mouse integration
   window/              Window dragging
@@ -133,4 +142,4 @@ Animation lengths are also encoded in `src/main.cpp`; keep those frame counts in
 
 ## Third-party notices
 
-The bundled nlohmann/json library includes its [MIT license](third_party/nlohmann/LICENSE.MIT). This repository does not currently include a project-wide license or a separate license notice for the sprite artwork.
+The bundled nlohmann/json library includes its [MIT license](third_party/nlohmann/LICENSE.MIT). Sprite source credits are listed above the screenshots. This repository does not currently include a project-wide license or a separate license notice for the sprite artwork.

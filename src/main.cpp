@@ -1,5 +1,4 @@
 #include "assets/AssetManager.h"
-#include "animation/Animation.h"
 #include "platform/MacPlatform.h"
 #include "window/WindowDrag.h"
 #include <string>
